@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -46,3 +47,6 @@
     <li>Ejecute el script <code>main.ipynb</code> en la carpeta <code>src</code> para ejecutar el flujo de procesamiento de datos.</li>
 </ol>
 </html>
+=======
+# data_engineer
+>>>>>>> 284405ddcc7c8e87211aba1eb5fc3becce3b8882
