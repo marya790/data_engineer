@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/JSON-1.0-yellow.svg" alt="JSON">
 </p>
 <h2>Prueba Tecnica Data Engineer</h2>
-<p>Este es el repositorio de la Prueba Técnica para el rol de Data Engineer, correspondiente a la primera versión de agosto de 2023.</p>
+<p>Este es el repositorio de la Prueba Técnica para el rol de Data Engineer, correspondiente a la primera versión de agosto 10 de 2023.</p>
 <p>Nombre: Luz Maribel Rodriguez Y.</p>
 
 <h2>Objetivos</h2>
